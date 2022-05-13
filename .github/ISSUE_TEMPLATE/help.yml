@@ -1,6 +1,6 @@
 name: 🙋 Help
 description: Open an issue and request for individual help
-labels: ['help', 'help wanted']
+labels: ['help wanted']
 
 body:
   - type: checkboxes

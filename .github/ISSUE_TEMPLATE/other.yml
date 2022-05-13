@@ -1,5 +1,6 @@
 name: ❔ Other
 description: Open an issue that is not feature or bug related
+labels: ['other']
 
 body:
   - type: checkboxes

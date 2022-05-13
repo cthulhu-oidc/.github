@@ -1,5 +1,6 @@
 name: 💥 Regression Report
 description: Report unexpected behavior that worked in previous versions
+labels: ['regression']
 
 body:
   - type: checkboxes
