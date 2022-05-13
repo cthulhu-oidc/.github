@@ -1,1 +1,1 @@
-<img src="../media/cthulhu.svg" alt="Cthulhu-Logo" width="100%"/>
+<img src="https://github.com/cthulhu-oidc/.github/blob/main/media/cthulhu.svg" alt="Cthulhu-Logo" width="100%"/>
